@@ -1,0 +1,32 @@
+.post a{
+    color: aqua;
+}
+ 
+
+input + button {
+    background-color: pink;
+}
+
+footer > a {
+    color: blue;
+}
+
+input[type="password"] {
+    color: green;
+}
+
+section[class="post"] {
+    background-color: purple;
+}
+
+button:hover {
+    background-color: red;
+}
+
+.post button:hover {
+    background-color: red;
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
